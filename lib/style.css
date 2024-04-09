@@ -1,0 +1,9 @@
+body {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100vh !important;
+}
+
+footer {
+    margin-top: auto !important;
+}
